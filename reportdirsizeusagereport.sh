@@ -11,3 +11,4 @@ else
     echo "Error, $dir could not be accessed"
     echo "Error: no report generated.  $dir not accessible" >> /tmp/report
 fi
+#cat the report file in /tmp folder named report
